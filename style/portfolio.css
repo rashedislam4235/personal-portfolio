@@ -1,0 +1,55 @@
+
+
+.open-san {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+ 
+}
+header{
+    background-color: #FFF8F3;
+    padding-top: 50px;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+nav{
+    width: 71%;
+    max-width: 1140px;
+    
+    margin: 0% auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    
+
+}
+nav .menu{
+    display: flex;
+  list-style-type: none;
+  gap: 51px;
+  font-size: 20px;
+  align-items: center;
+  
+
+
+}
+li button{
+    font-size: 20px;
+    padding-top: 18.28px;
+    padding-bottom: 19.3px;
+    padding-left: 36px;
+    padding-right: 35px;
+    background-color:#FD6E0A;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    color: white;
+}
+nav div h2{
+    font-size: 45px;
+    font-weight: bolder;
+}
