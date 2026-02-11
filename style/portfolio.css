@@ -212,6 +212,9 @@ nav div h2{
 .d1{
     max-width: 267px;
     padding: 30px;
+    background-color: #FFFFFF;
+    box-shadow: 0 6px 50px 0 #00000027;
+
     
 
     
@@ -219,16 +222,25 @@ nav div h2{
 .d2{
     max-width: 267px;
     padding: 30px;
+     background-color: #FFFFFF;
+      background-color: #FFFFFF;
+    box-shadow: 0 6px 50px 0 #00000027;
     
 }
 .d3{
     max-width: 267px;
     padding: 30px;
+     background-color: #FFFFFF;
+      background-color: #FFFFFF;
+    box-shadow: 0 6px 50px 0 #00000027;
     
 }
 .d4{
     max-width: 267px;
     padding: 30px;
+     background-color: #FFFFFF;
+      background-color: #FFFFFF;
+    box-shadow: 0 6px 50px 0 #00000027;
     
 }
 .d1 img{
@@ -239,7 +251,62 @@ nav div h2{
     margin-bottom: 20px;
 }
 .v{
-    color: aqua;
+    
     font-size: 20px;
     margin-bottom: 20px;
+}
+
+.w2{
+    
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.t2{
+    
+    font-size: 16px;
+    color: #757575;
+    line-height: 28px;
+}
+.d2 img {
+    max-width: 49.93px;
+    margin-bottom: 30px;
+
+}
+.d3 img {
+    max-width: 40px;
+    margin-bottom: 30px;
+}
+.x3{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+
+}
+.y3{
+     font-size: 16px;
+    color: #757575;
+    line-height: 28px;
+}
+
+.d4 img{
+    margin-bottom: 30px;
+    max-width: 44px;
+}
+.d1 img {
+    max-width: 44px;
+    margin-bottom: 30px;
+}
+.pxt{
+    margin-bottom: 30px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.xxt{
+    margin-bottom: 50px;
+    line-height: 30px;
+    font-size: 18px;
+    color: #757575;
+    font-weight: 0;
 }
