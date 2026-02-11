@@ -105,6 +105,7 @@ nav div h2{
     border: none;
     border-radius: 5px;
     margin-left: 30px;
+    cursor: pointer;
     
 }
 .writen-part{
@@ -116,5 +117,82 @@ nav div h2{
     width: 585px;
     vertical-align: middle;
     
+}
+.c2{
+    padding-top: 130px;
+    
+}
+.c2 .about {
+    text-align: center;
+    width: 71%;
+    max-width: 1140px;
+    
+    margin: 0% auto;
+    background-color: #FFF8F3;
+    padding: 131px 156px;
+
+}
+.about-paragraph h2{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+    margin-bottom: 30px;
+    width: 827px;
+    text-align: center;
+}
+.about-paragraph p{
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 30px;
+
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+.e1 h4{
+    color: #757575;
+    font-size: 20px;
+
+
+
+}
+.e1 p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.e2 h4{
+    color: #757575;
+    font-size: 20px;
+
+
+
+}
+.e2 p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.e3 h4{
+    color: #757575;
+    font-size: 20px;
+
+
+
+}
+.e3 p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.e4 h4{
+    color: #757575;
+    font-size: 20px;
+
+
+
+}
+.e4 p{
+    font-size: 20px;
+    font-weight: bold;
 }
 
