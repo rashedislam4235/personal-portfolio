@@ -376,7 +376,77 @@ nav div h2{
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    
+
      
 }
+.fdiv{
+    display: flex;
+    gap: 117px;
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
+.lets-div{
+    max-width: 562px;
+}
+.form{
+    max-width: 461px;
+}
+.last{
+    background-color: #FFF8F3;
+    margin-top: 113px;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+.lets-div{
+    line-height: 28px;
+    font-size: 16px;
+    color: #474747;
+}
+.img-div{
+    margin-left: 0%;
+
+}
+.img-div img{
+    margin-right: 24px;
+}
+.lets-div h1{
+    font-size: 35px;
+font-weight: bold;
+color: #181818;
+margin-bottom: 20px;
+}
+
+.lets-div p{
+    margin-bottom: 30px;
+}
+.n{
+    margin-bottom: 28px;
+    font-size: 35px;
+font-weight: bold;
+color: #181818;
+}
+form input[type=text] , form textarea{
+    margin-bottom: 24px;
+    width: 461px;
+    padding: 18px 31px;
+    border: none;
+    border-radius: 5px; 
+    color: #757575; 
+}
+.l{
+    margin-bottom: 24px;
+}
+.w{
+    color: white;
+    max-width: 150px;
+    padding: 18px 39px;
+    background-color: #FD6E0A;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
 
