@@ -196,7 +196,7 @@ nav div h2{
     max-width: 1140px;
     margin: 0 auto;
 }
-.c3{
+.c3,.resume{
     padding-top:   130px;
 
 }
@@ -310,3 +310,73 @@ nav div h2{
     color: #757575;
     font-weight: 0;
 }
+ .h1{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+.resume-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 113px;
+    display: flex;
+    gap: 24px;
+
+}
+.my-education{
+    max-width: 558px;
+}
+.education-tittle{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.resume-card{
+    max-width: 511px;
+    margin-right: 47px;
+    margin-bottom: 60px;
+     
+   
+    
+}
+.h2{
+    font-size: 25px;
+    font-family: bold;
+    color: #474747;
+    margin-bottom: 10px;
+}
+.p1{
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.p2{
+    font-size: 16px;
+    color: #757575;
+    line-height: 28px;
+}
+.button{
+    text-align: center;
+    
+    
+
+    
+    
+}
+.btn{
+     font-size: 20px;
+    font-weight: bold;
+    background-color:#FD6E0A;
+   
+   border: none;
+   padding: 18px 35px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+     
+}
+
