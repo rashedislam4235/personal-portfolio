@@ -113,7 +113,7 @@ nav div h2{
     margin-left: 0%;
     
 }
-.banner .image-part{
+.banner .image-part img{
     width: 584px;
     vertical-align: middle;
     
@@ -447,6 +447,113 @@ form input[type=text] , form textarea{
     border-radius: 5px;
     cursor: pointer;
 
+}
+@media screen and (max-width:576px) {
+    .fulldiv {
+    width:95%;   
+}
+.c3 {
+    padding-top: 60px;
+}
+.skilldiv {
+    display: flex;
+   flex-direction: column;
+}
+.pxt {
+  
+    font-size: 30px; 
+}
+.d1 {
+    max-width:100%;   
+}
+.d2{
+    max-width: 100%;
+}
+.d3{
+    max-width: 100%;
+}
+.d4{
+    max-width: 100%;
+}
+.c2 {
+    padding-top: 10px;    
+}
+.c2 .about{
+    padding: 20px;
+   width: 95%;
+}
+.about-paragraph h2{  
+    width: 100%;
+} 
+.footer { 
+    flex-direction: column;
+    gap: 20px;
+}
+.resume-container {
+    width: 100%;
+    flex-direction: column;
+}
+.my-education {
+    margin-left: 10px;
+}
+   .h1{
+    font-size: 33px;
+   }
+   .fdiv {
+    flex-direction: column;
+    width: 95%;   
+}
+form input[type=text], form textarea { 
+    width: 100%;  
+}
+.lets-div h1 {
+    font-size: 30px;  
+}
+.n {  
+    font-size: 30px;  
+}
+nav { 
+  flex-direction: column;
+  gap: 20px;   
+}
+nav .menu {
+   flex-wrap: wrap;
+   justify-content:center;  
+}
+.banner {
+     
+    flex-direction: column;
+    
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+}
+.banner .image-part img {
+    width: 100%;    
+}
+.btn-group{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.b2 {
+    
+    margin-left: 0%;    
+}
+header {
+
+    background: url(../images/header_bg.png), #FFF8F3;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+.writen-part h1 {
+    font-size: 55px;
+   
+}
+.writen-part h2 {
+    font-size: 45px;
+    
+}
 }
 
 
